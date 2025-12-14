@@ -1,7 +1,7 @@
 # PayFlow 💳
 **Digital Payment Flow using Microservices**
 
-PayFlow is a backend fintech application built with **Java** and **Spring Boot**, using a **microservices architecture**.  
+PayFlow is a digital payment flow built with **Java** and **Spring Boot**, using a **microservices architecture**.  
 It supports secure digital payments, wallet management, and event-driven transaction processing with high scalability and reliability.
 
 ---
