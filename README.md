@@ -1,8 +1,8 @@
 # PayFlow 💳
 **Digital Payment Flow using Microservices**
 
-PayFlow is a digital payment flow built with **Java** and **Spring Boot**, using a **microservices architecture**.  
-It supports secure digital payments, wallet management, and event-driven transaction processing with high scalability and reliability.
+PayFlow is a fintech payment flow built with **Java** and **Spring Boot**, using a **microservices architecture**.  
+It supports secure digital payments, wallet management and event-driven transaction processing with high scalability and reliability.
 
 ---
 
@@ -49,7 +49,7 @@ PayFlow uses a **distributed microservices architecture**:
 | **transaction-service** | Transaction processing and Kafka event publishing |
 | **reward-service** | Reward processing based on transactions |
 | **notification-service** | User notifications via Kafka events |
-| **api-gateway** | Centralized routing, authentication, and authorization |
+| **api-gateway** | Centralized routing, authentication and authorization |
 
 ---
 
